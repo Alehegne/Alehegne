@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alehegne
-- 👀 I’m interested in  web dev especially backend
-- 🌱 I’m currently learning web dev by myself, and attending software engineering at AASTU
+- 👀 I’m on tech learning journey.
+- 🌱 I’m currently learning  software engineering at AASTU
 -
 
 <!---
