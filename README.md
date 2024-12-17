@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alehegne
- i am a junior full stack developer,
+ i am a junior web developer,
 
 <!---
 Alehegne/Alehegne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
