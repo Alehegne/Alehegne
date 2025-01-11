@@ -62,7 +62,7 @@
 ---
 
 ### 📫 How to Reach Me
-- 💌 Email: alehegnegetaenyewuu@gmail.com
+- 💌 Email: [Alehegne](alehegnegetaenyewuu@gmail.com)
 - 💻 GitHub: [Alehegne](https://github.com/Alehegne)
 - 🔗 LinkedIn: [Alehegne](https://www.linkedin.com/in/Alehegne)
 
