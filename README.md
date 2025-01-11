@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Alexoo!</h1>
+<h1 align="center">👋 Hi, I'm Alex!</h1>
 <p align="center">
   Aspiring Software Engineer | Passionate about Web Development, React, Next.js, and Python | Exploring Data Structures and Algorithms, System Design
 </p>
