@@ -1,81 +1,181 @@
-<h1 align="center">👋 Hi, I'm Alex!</h1>
-<p align="center">
-  Aspiring Software Engineer | Passionate about Web Development, React, Next.js, and Python | Exploring Data Structures and Algorithms, System Design
+# <div align="center">⚡ Alex | Software Engineer • Full-Stack Developer • Competitive Programmer</div>
+
+<div align="center">
+
+Engineering scalable systems, solving complex algorithmic problems, and building production-grade applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Competitive+Programmer;700%2B+DSA+Problems+Solved;Advanced+DSA+%7C+AI+%7C+System+Design;TypeScript+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+PHP;Building+Scalable+and+Efficient+Systems" alt="Typing SVG" />
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```ts id="ahw71p"
+const alex = {
+    role: [
+        "Software Engineer",
+        "Full-Stack Developer",
+        "Competitive Programmer"
+    ],
+
+    expertise: [
+        "Full-Stack Development",
+        "Backend Engineering",
+        "Algorithmic Problem Solving",
+        "System Design"
+    ],
+
+    currentFocus: [
+        "Advanced Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "Distributed Systems",
+        "Scalable Architectures"
+    ],
+
+    achievements: {
+        problemsSolved: "700+",
+        platforms: ["LeetCode", "Codeforces"],
+        programsCompleted: [
+            "A2SV Competitive Programming Program"
+        ]
+    },
+
+    experience: [
+        "Full-Stack Intern @ Kuraz Tech",
+        "Full-Stack Intern @ INSA"
+    ],
+
+    philosophy: [
+        "Build scalable and maintainable systems",
+        "Optimize for performance and reliability",
+        "Continuously push technical boundaries"
+    ]
+};
+```
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,cpp,java,php,python,js" />
+</p>
+
+## Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+## Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+## Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+## Infrastructure & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning:
-  - Data Structures & Algorithms (using Python)
-  - System Design Concepts
-- 🎯 My Goals:
-  - Master Data Structures and Algorithms for real-world problem-solving.
-  - Build production-ready full-stack applications using React, Next.js, and Node.js.
-  
+# 🏆 Competitive Programming
+
+<div align="left">
+
+* Solved **700+ algorithmic problems** across LeetCode and Codeforces
+* Completed the **A2SV Competitive Programming Program**
+* Strong focus on:
+
+  * Dynamic Programming
+  * Graph Algorithms
+  * Trees & Binary Lifting
+  * Greedy Techniques
+  * Bit Manipulation
+  * Advanced BFS/DFS
+  * Sliding Window
+  * Heaps & Priority Queues
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+# 💼 Experience
 
-#### Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+## Full-Stack Intern — Kuraz Tech
 
-#### Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
+* Worked on full-stack web application development
+* Built scalable frontend and backend features
+* Collaborated on real-world production workflows
 
-#### Backend  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
+---
 
-#### Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+## Full-Stack Intern — INSA
 
-#### Tools  
+* Contributed to full-stack engineering tasks
+* Worked with modern web technologies and backend systems
+* Participated in software development and deployment processes
+
+---
+
+# 🏗️ Engineering Focus
+
+* Designing scalable backend systems
+* Building production-ready applications
+* Exploring AI and intelligent systems
+* Deepening expertise in advanced algorithms
+* Studying distributed systems and software architecture
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alehegne&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alehegne&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img src="https://streak-stats.demolab.com?user=Alehegne&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+<a href="mailto:alehegnegetaenyewuu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Alehegne">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/Alehegne">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alehegne&show_icons=true&theme=radical)
+### ⚡ Building scalable systems, solving complex problems, and engineering impactful software.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alehegne&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?username=Alehegne&theme=radical)](https://git.io/streak-stats)
-
-
-
----
-
-### 📫 How to Reach Me
-- 💌 Email: [Alehegne](alehegnegetaenyewuu@gmail.com)
-- 💻 GitHub: [Alehegne](https://github.com/Alehegne)
-- 🔗 LinkedIn: [Alehegne](https://www.linkedin.com/in/Alehegne)
-
----
-
-### ⚡ Let's Connect!
-Feel free to explore my repositories and provide feedback. I’m open to collaboration and learning from the community!
+</div>
