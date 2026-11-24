@@ -138,19 +138,6 @@ const alex = {
 * Deepening expertise in advanced algorithms
 * Studying distributed systems and software architecture
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alehegne&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alehegne&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img src="https://streak-stats.demolab.com?user=Alehegne&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
 
 ---
 
